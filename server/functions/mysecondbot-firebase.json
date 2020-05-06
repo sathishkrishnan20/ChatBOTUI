@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cskinstitute-tfhlsc",
+  "private_key_id": "059d1784bd92484c8f8677385494b3ce42107131",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDm9+sPiLK1hCY5\nJ0dcDTSGIgLC06A5hGCb1vUttOwNLhz1DDeyXqbkMUMD6GLPg9ubAH6wz6cy1Hc6\nT2+mezglVuhgxuzBcIaBGEGJg7ahAjCOpPzgs+ZN6YZTL1cycJbmelxDQroj8a+G\nfL3MtRfk6fxYpsdjFXgMQVaG41UKSIdKaBkIXV38vJeM5nS27D7xmYQWqaZ3lQHC\nEDq2UKHXanvth4QqHOoIb/r/PzLLZBnyFcNZ9DwREdJuhM7SBvkJvgOGbE8jOrvH\n8nKGzx966gHcqDtv6SubqonJtzkTvnHisZBtsQalk6vy9FLg8p4rWuvQvwN+o4Io\nhMYqQUWNAgMBAAECggEACWK6Chu6ILcvMx5d/3xyjcrUWuTCUOQIuvx4DR9E17Tv\n104OS1tzo7fpaxS77dvZW4n1xqtBi5wSVkEZHpDznfd995ojJSnfRWAIyxTvockB\nfnfE5kAD6VbxLvCFthaDg00l8lPEAFGXb5B3yVmd5XRUB/7gVliZKWz+86Se9Y0b\nh/5uwdQLmN9q9EuKjIyjqp3Iu/jQCDRQOTvnf1Bt2+0cmRGAyhUHqu1cXxJYi8Vq\nXhRZSUmonibLHsKg57LBmBM7f4BTr2RyU/mtTztOhutle+HnsS4Q7b3CbDY8DFGG\nvcCatk+vV0+wZSx1jUweBLq+/HA9JzztR1MPTqcnHwKBgQD2V4+DT3QvQ0S2t244\noMgpP7W62aW2/SHwunx4Au98SiCS97J43Hh+SsajNiC/GQ9uVzYEfAL4jsJAcZxn\n5zEdpeEgKN7ugZtV6Db9PMEkmACxCAJ+VOfayaLN87bNrkEpVMH7anGVbJb4RpcH\nuFRoGZCF2SkGcsloMkQdgEYA8wKBgQDwBg8IP2DZyfPVY/HyB1HFoRamtFXh9Hbn\nCK+2BekuO7JI4HuELHrnAsHoD7wagycLji46vpQcSrHAx7nkooyMeH+jg+Qxil0M\nuXUhaXXufxNhVmmSk9fLdsGgQCA2WIFUvFTi7lmrih1dacuHUzOf/849GIT/UtFB\nlv212Ek/fwKBgQC/WMA3BQ6Ab8X+D3lkLy+LKtukac8Y1oL4lEJ+jfksGAA5aIGO\n8+H8Z2Tn/fFtvq+Hy+I/lXxRScKFgDo3UxOJrgGyk0ynArGAB0I/bmOwYwmWeVxG\nePknrxvw0fAaz9H5osaS3dmgcZrK+znxWzLlMYZbEZWWVq8vamwSZkL6FQKBgG0M\nY6H8oXTxQt2tRcwPNUCTumXMwsQgvDClCqepMdK2fn6LtrJLPx9baluTYoOtGH0w\ngKJh2YqtCOssErHkg/SB/oN8tZ0oXrQcQjIG5vSPOW/cwaQ9lSo0by3uVHQ8a63i\nzrI3VfgQjNzW5wg5bdgAcWPikvIpXzbscaI/fK/jAoGAf+XD/4+fOZvl6Sz3W+QE\nLMcUyN2CruvIdTxtjH4Njmrmo5M447QNY0RQmr1r5b9zDi7q5Tq+FnO+nS1wdgg+\nyz0tK6064C/yHFy7vgo0Nsl3dL2xiR7X97322En+p51y6GJO5Fn0Aq5pUmLgD7Ly\nRhZpufqvfBIhs6EP8sStO/o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-gqcyvf@cskinstitute-tfhlsc.iam.gserviceaccount.com",
+  "client_id": "106652796771824467126",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-gqcyvf%40cskinstitute-tfhlsc.iam.gserviceaccount.com"
+}
